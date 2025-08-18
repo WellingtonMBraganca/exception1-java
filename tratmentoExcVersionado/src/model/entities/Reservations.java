@@ -1,5 +1,7 @@
 package model.entities;
 
+import model.exceptions.DomainException;
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
@@ -14,7 +16,12 @@ public class Reservations {
     public Reservations() {
     }
 
-    public Reservations(Integer roomNumber, Date checkin, Date checkout) {
+    public Reservations(Integer roomNumber, Date checkin, Date checkout) throws DomainException {
+        //Podemos inclusive propagar uma excessão que seja possivel ocorer no construtor.
+
+        if (!checkout.after(checkin)) {
+            throw new DomainException("Checkout date must not bo before checkin date.");
+        }
         this.roomNumber = roomNumber;
         this.checkin = checkin;
         this.checkout = checkout;
@@ -44,25 +51,23 @@ public class Reservations {
         return TimeUnit.DAYS.convert(diff, TimeUnit.MILLISECONDS);
     }
 
-    public String updateDates(Date checkin, Date checkout){
+    public void updateDates(Date checkin, Date checkout) throws DomainException{
+        //O compilador exige que tratemos a excessao ou a propaguemos, uma vez que ela Extend Exceptions
+        //Então precisamos propaga-la com o throws, uma vez que o tratamento ocore no programa principal.
         Date now = new Date();
         if (checkin.before(now) || checkout.before(now)) {
-            return "Error in reservation: Reservation dates for update must be future dates.";
-        }
-        if (!checkout.after(checkin)) {
-            return "Error in reservation: Checkout date must not bo before checkin date.";
+            throw new DomainException("Reservation dates must be future dates.");
         }
 
         this.checkin = checkin;
         this.checkout = checkout;
-        return null;
     }
 
     @Override
     public String toString(){
          return "Room " + roomNumber
                  + ", checkin: " + sdf.format(checkin)
-                 + ", checkout: " + sdf.format(checkout)
+                 + ", checkout: " + sdf.format(checkout) + " "
                  + durations() + " nights.";
     }
 }
