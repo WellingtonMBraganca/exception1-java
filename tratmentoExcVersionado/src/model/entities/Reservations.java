@@ -56,6 +56,7 @@ public class Reservations {
         //Então precisamos propaga-la com o throws, uma vez que o tratamento ocore no programa principal.
         Date now = new Date();
         if (checkin.before(now) || checkout.before(now)) {
+            //disparar
             throw new DomainException("Reservation dates must be future dates.");
         }
 
