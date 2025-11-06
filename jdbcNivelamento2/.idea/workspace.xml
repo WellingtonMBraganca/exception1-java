@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b4803d4-261e-48ca-986c-47be2a2f0a24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CarRentalWithoutInterface/src/entities/domain/CarRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarRentalWithoutInterface/src/entities/domain/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarRentalWithoutInterface/src/entities/domain/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioInterface/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioInterface/src/entities/domain/Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioInterface/src/entities/domain/Installment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioInterface/src/entities/service/ContractService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioInterface/src/entities/service/OnlinePaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExercicioInterface/src/entities/service/PaypalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface vs classe abstrata/src/InterfaceVsAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface vs classe abstrata/src/exemplo/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface vs classe abstrata/src/exemplo/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface vs classe abstrata/src/exemplo/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface vs classe abstrata/src/exemplo/abstrato/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface vs classe abstrata/src/exemplo/abstrato/intShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetMapGenerics/src/genericDelimitado/services/CalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetMapGenerics/src/problemaMotivador/service/PrintService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aloguelDeCarros/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aloguelDeCarros/src/entities/domain/CarRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aloguelDeCarros/src/entities/domain/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aloguelDeCarros/src/entities/domain/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aloguelDeCarros/src/entities/services/BrazilTaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aloguelDeCarros/src/entities/services/RentalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aloguelDeCarros/src/entities/services/TaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bdNivelamento/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bdNivelamento/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bdNivelamento/src/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bdNivelamento/src/db/DbException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparator/src/TeoriaComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparator/src/entities/InterfacesFuncionaisTeoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparator/src/entities/PredicateTeoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparator/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../defaultMethods/src/entities/services/BrazilinterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../defaultMethods/src/entities/services/InterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../defaultMethods/src/entities/services/UsaInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicioFixacaoInterface/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicioFixacaoInterface/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicioSet1/src/Ex2Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicioSet1/src/entities/LogEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileWritterAndBufferedWritter/src/CaminhoDOArquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileWritterAndBufferedWritter/src/Exerc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileWritterAndBufferedWritter/src/FileReaderBufferedReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileWritterAndBufferedWritter/src/file.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileWritterAndBufferedWritter/src/tryWithResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fixacaoExcessoes/src/model/entities/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashCodeEquals/src/ProgarmEqualsHashCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashCodeEquals/src/entities/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/src/HerancaMultipla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/src/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/src/entities/CarRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/src/entities/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/src/entities/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/src/entities/services/BrazilTaxServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/src/entities/services/RentalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/src/entities/services/TaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/src/entities/services/comparable/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/src/entities/services/comparable/InterfaceComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento/src/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento/src/db/DbException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_9_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/.idea/libraries/mysql_connector_j_9_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/src/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/src/db/DbException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/untitled/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/DbException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map/src/Exemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map/src/TeoriaMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mapExercicio/src/entities/Candidates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacaoFuncionalExercicio/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacaoFuncionalExercicio/src/application/ProgramEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacaoFuncionalExercicio/src/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programacaoFuncionalExercicio/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tratamenteFixacao/src/domain/domainExceptions/DomainExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tratamenteFixacao/src/domain/entities/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vetorLia/src/lista1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vetorLia/src/lista2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vetorLia/src/lista6Vetor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tratmentoExcVersionado/src/model/entities/Reservations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tratmentoExcVersionado/src/model/entities/Reservations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tratmentoExcVersionado/src/model/exceptions/DomainException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tratmentoExcVersionado/src/model/exceptions/DomainException.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;WellingtonMBraganca&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/WellingtonMBraganca/exception1-java.git&quot;,
+    &quot;accountId&quot;: &quot;ae149a24-371b-4282-8e03-8abb07125c3c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="34yXyz7XmV9ro5YedaXLDf8E0os" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Program.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/braga/IdeaProjects/exception1-java/jdbcNivelamento2/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "62c98138-6276-4852-8c40-0ac669b72e76"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b4803d4-261e-48ca-986c-47be2a2f0a24" name="Changes" comment="" />
+      <created>1762187045076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762187045076</updated>
+      <workItem from="1762187046044" duration="129000" />
+      <workItem from="1762187196885" duration="3144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
