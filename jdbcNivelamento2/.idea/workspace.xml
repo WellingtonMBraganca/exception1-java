@@ -4,107 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b4803d4-261e-48ca-986c-47be2a2f0a24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../CarRentalWithoutInterface/src/entities/domain/CarRental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CarRentalWithoutInterface/src/entities/domain/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CarRentalWithoutInterface/src/entities/domain/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExercicioInterface/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExercicioInterface/src/entities/domain/Contract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExercicioInterface/src/entities/domain/Installment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExercicioInterface/src/entities/service/ContractService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExercicioInterface/src/entities/service/OnlinePaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExercicioInterface/src/entities/service/PaypalService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interface vs classe abstrata/src/InterfaceVsAbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interface vs classe abstrata/src/exemplo/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interface vs classe abstrata/src/exemplo/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interface vs classe abstrata/src/exemplo/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interface vs classe abstrata/src/exemplo/abstrato/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interface vs classe abstrata/src/exemplo/abstrato/intShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetMapGenerics/src/genericDelimitado/services/CalculationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetMapGenerics/src/problemaMotivador/service/PrintService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aloguelDeCarros/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aloguelDeCarros/src/entities/domain/CarRental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aloguelDeCarros/src/entities/domain/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aloguelDeCarros/src/entities/domain/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aloguelDeCarros/src/entities/services/BrazilTaxService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aloguelDeCarros/src/entities/services/RentalService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aloguelDeCarros/src/entities/services/TaxService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bdNivelamento/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bdNivelamento/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bdNivelamento/src/db/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bdNivelamento/src/db/DbException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../comparator/src/TeoriaComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../comparator/src/entities/InterfacesFuncionaisTeoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../comparator/src/entities/PredicateTeoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../comparator/src/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../defaultMethods/src/entities/services/BrazilinterestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../defaultMethods/src/entities/services/InterestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../defaultMethods/src/entities/services/UsaInterestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercicioFixacaoInterface/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercicioFixacaoInterface/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercicioSet1/src/Ex2Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercicioSet1/src/entities/LogEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fileWritterAndBufferedWritter/src/CaminhoDOArquivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fileWritterAndBufferedWritter/src/Exerc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fileWritterAndBufferedWritter/src/FileReaderBufferedReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fileWritterAndBufferedWritter/src/file.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fileWritterAndBufferedWritter/src/tryWithResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fixacaoExcessoes/src/model/entities/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hashCodeEquals/src/ProgarmEqualsHashCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hashCodeEquals/src/entities/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interfaces/src/HerancaMultipla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interfaces/src/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interfaces/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interfaces/src/entities/CarRental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interfaces/src/entities/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interfaces/src/entities/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interfaces/src/entities/services/BrazilTaxServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interfaces/src/entities/services/RentalService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interfaces/src/entities/services/TaxService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interfaces/src/entities/services/comparable/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interfaces/src/entities/services/comparable/InterfaceComparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento/src/db/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento/src/db/DbException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_9_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/.idea/libraries/mysql_connector_j_9_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/src/db/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/src/db/DbException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbcNivelamento2/untitled/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/db/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/db/DbException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../map/src/Exemplo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../map/src/TeoriaMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../map/src/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mapExercicio/src/entities/Candidates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../programacaoFuncionalExercicio/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../programacaoFuncionalExercicio/src/application/ProgramEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../programacaoFuncionalExercicio/src/entities/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../programacaoFuncionalExercicio/src/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tratamenteFixacao/src/domain/domainExceptions/DomainExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tratamenteFixacao/src/domain/entities/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vetorLia/src/lista1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vetorLia/src/lista2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vetorLia/src/lista6Vetor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tratmentoExcVersionado/src/model/entities/Reservations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tratmentoExcVersionado/src/model/entities/Reservations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tratmentoExcVersionado/src/model/exceptions/DomainException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tratmentoExcVersionado/src/model/exceptions/DomainException.java" afterDir="false" />
+    <list default="true" id="8b4803d4-261e-48ca-986c-47be2a2f0a24" name="Changes" comment="Latest course content">
+      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento3/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento3/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento3/src/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento3/src/db/DbException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento4/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento4/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento4/src/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento4/src/db/DbException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbcNivelamento4/src/db/DbIntegrityException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,32 +46,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Program.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/braga/IdeaProjects/exception1-java/jdbcNivelamento2/src/Main.java",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/braga/IdeaProjects/exception1-java/jdbcNivelamento2/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql",
-      "62c98138-6276-4852-8c40-0ac669b72e76"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;62c98138-6276-4852-8c40-0ac669b72e76&quot;
     ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\braga\IdeaProjects\exception1-java\jdbcNivelamento2" />
+      <recent name="C:\Users\braga\IdeaProjects\exception1-java\jdbcNivelamento2\.idea" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -177,10 +95,27 @@
       <updated>1762187045076</updated>
       <workItem from="1762187046044" duration="129000" />
       <workItem from="1762187196885" duration="3144000" />
+      <workItem from="1762471919584" duration="1169000" />
+      <workItem from="1762474451414" duration="17000" />
+      <workItem from="1762478287166" duration="60000" />
+      <workItem from="1762478668970" duration="63000" />
     </task>
+    <task id="LOCAL-00001" summary="Latest course content">
+      <option name="closed" value="true" />
+      <created>1762472064541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762472064541</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Latest course content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Latest course content" />
   </component>
 </project>
